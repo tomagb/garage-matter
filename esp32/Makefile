@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := app-template
+PROJECT_NAME := entrance-gate
 
 include $(IDF_PATH)/make/project.mk
 
